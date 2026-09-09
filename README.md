@@ -134,9 +134,4 @@ The resume PDF is also included in this repository:
 
 `public/Kajal-Tiwari-Resume.pdf`
 
-## 🚀 Run Locally
 
-Clone the repository:
-
-```bash
-git clone https://github.com/kajaljtiwari/kajaljtiwari-portfolio.git
