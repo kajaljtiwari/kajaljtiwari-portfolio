@@ -7,8 +7,7 @@ I’m an MCA student and aspiring software developer with hands-on experience in
 ## 🌐 Portfolio
 
 **Live Website:**  
-https://your-vercel-url.vercel.app/
-
+https://kajaljtiwari-portfolio.vercel.app/
 ## ✨ Features
 
 - Responsive portfolio design
