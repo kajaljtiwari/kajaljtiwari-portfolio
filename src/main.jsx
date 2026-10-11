@@ -99,7 +99,6 @@ const skills = [
     ['Bootstrap', 'Frontend'],
 
     ['FastAPI', 'Backend'],
-    ['Node.js / Express.js', 'Backend'],
     ['REST APIs', 'Backend'],
 
     ['PostgreSQL', 'Database'],
